@@ -5,7 +5,7 @@
 ```text
 ├── 01 基礎觀念題--Python 基本邏輯與理論
 │   └──錯誤綜整:針對容易出錯與關鍵的觀念題，進行重點整理與解析。
-│       └──來源：[吳邦一教授 —— APCS Python 程式識讀 125 題](https://drive.google.com/file/d/1WaZOpxgcz23vEil2UOzLWXrtYeUr0Nnc/view?usp=drive_link)
+│       └──來源：吳邦一教授 —— APCS Python 程式識讀 125 題
 ├── 02 學習語法基礎運用--變數、迴圈、基本運算
 └── 03 實作練習--針對各種平台(主要為zerojudge)題目練習(包含APCS)
     ├── zerojudge
@@ -22,4 +22,8 @@
 
 ## 使用工具
 * Google Colab 
-* GitHub 
+* GitHub
+* Zerojudge
+
+## 參考網址
+**來源：[吳邦一教授 —— APCS Python 程式識讀 125 題](https://drive.google.com/file/d/1WaZOpxgcz23vEil2UOzLWXrtYeUr0Nnc/view?usp=drive_link)**
