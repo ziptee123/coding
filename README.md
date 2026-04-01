@@ -5,6 +5,8 @@
 ##  專案架構
 ```text
 ├── 01 基礎觀念題--Python 基本邏輯與理論
+│   ├──python語法學習
+│   │   └──來源： YouTube CodeShiba 程式柴 —— python 完整教學(2023)
 │   ├──基礎語法測試
 │   └──錯誤綜整:針對容易出錯與關鍵的觀念題，進行重點整理與解析。
 │       └──來源：吳邦一教授 —— APCS Python 程式識讀 125 題
@@ -33,6 +35,7 @@
 
 ## 參考網址
 來源：
+* [CodeShiba 程式柴 —— python 完整教學(2023)](https://www.youtube.com/playlist?list=PLpZ8gOBZmTy5QMSpXdhipOrccWSQd3WxI)
 * [吳邦一教授 —— APCS Python 程式識讀 125 題(pdf檔)修正版](https://drive.google.com/file/d/1WaZOpxgcz23vEil2UOzLWXrtYeUr0Nnc/view?usp=drive_link)
 * [王一哲的教學網站 - APCS](https://sites.google.com/view/yizhe/%E8%AA%B2%E7%A8%8B/apcs)
 * [高中職程式設計教學題](https://csexp.csie.ntnu.edu.tw/course_hspc.php)
